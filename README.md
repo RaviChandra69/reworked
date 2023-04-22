@@ -1,1 +1,2 @@
-this is my firt file
+#this file is for examples
+this is my first file
